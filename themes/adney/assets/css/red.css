@@ -1,0 +1,30 @@
+blockquote.bq{
+	border-left: solid 10px #46B289;
+}
+
+ul.list_2 li a:hover{border-bottom: solid 1px #46B289;}
+
+.pricing_plan{
+	border-top: solid 5px #46B289;
+}
+.pricing_plan:after{
+	border-top: 10px solid #46B289;
+}
+
+.pricing_plan .plan_price, .team_member .team_member_hover .team_member_info .team_member_job, .testimonials_single .author_name, .post_info .post_date, .post_title span.post_date, .portfolio_item .portfolio_item_hover .item_info em, .pages_pagination > a:hover, .benefits_1_single > i:after, .benefits_2_single > i, .tab nav .bottom-line, .site-hero .small-title, .portfolio .categories-grid .categories ul li a.active, .btn.green, .green-section, a.link:after, .section-title span:after{
+	background-color: #46B289;
+}
+
+.blog_pagination .page:hover i.prev, .blog_pagination .page:hover i.next, .widget ul li:before, ul.list li:before, .btn.white, .input_1 > span.active,.textarea_1 > span.active, ul.social-icons li a:hover, .green-text, #commentform code{
+	color:#46B289;
+}
+
+.form-control:focus{
+	border:2px solid #46B289 !important;
+}
+
+a.page-numbers:hover, span.page-numbers.current{
+	border: 2px solid #46B289;
+	background-color: #46B289;
+	color: #fff;
+}
